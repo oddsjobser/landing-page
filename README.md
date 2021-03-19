@@ -2,7 +2,7 @@
 Landing Page to use for your website.
 
 A landing page which is made easy to use in different grids and columns.
-It exists out of <divs> and is made so it can function within mobile screens.
+It exists out of divs and is made so it can function within mobile screens.
   
 The resolution adapts itself and can be seen at the bottom within the @media screen function which 
 is derived in two sections in the css file.
